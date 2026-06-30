@@ -212,13 +212,7 @@ customer-churn-prediction/
 
 This app is deployed on **Streamlit Community Cloud** (free tier):
 
-1. Push this repository to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub
-3. Click **New app**, select this repo, branch `main`, and set the main file to `app.py`
-4. Click **Deploy**
-
-> Replace the placeholder demo link at the top of this README with your live URL once deployed.
-
+2. Go to [share.streamlit.io]((https://customer-churn-prediction-a6eabkqrsboofjidqnv6ky.streamlit.app/)) 
 ---
 
 ## 💡 Key Findings
