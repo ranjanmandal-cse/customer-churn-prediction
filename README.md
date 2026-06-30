@@ -9,7 +9,7 @@
 
 An end-to-end machine learning project that predicts whether a telecom customer will churn, explains **why** using SHAP, and serves live predictions through an interactive Streamlit dashboard.
 
-**🔗 Live demo:** [your-deployed-app-url.streamlit.app](#) *(update after deploying — see [Deployment](#-deployment))*
+**🔗 Live demo:** [Launch the app →](https://customer-churn-prediction-a6eabkqrsboofjidqnv6ky.streamlit.app/)
 
 ---
 
